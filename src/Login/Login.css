@@ -1,0 +1,36 @@
+.panel-heading {
+    padding: 5px 15px;
+}
+
+.panel-footer {
+	padding: 1px 15px;
+	color: #A0A0A0;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+header.title_login > :last-child {
+  border-bottom: solid 3px #f56a6a;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  margin: 0 0 2em 0;
+  padding: 0 0.75em 0.5em 0;
+}
+
+
+.center-block {
+  width: 100%
+}
+
+.login_panel {
+  background-color: #f5f6f7;
+}
